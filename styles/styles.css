@@ -190,7 +190,7 @@ nav {
       width: 64px;
       height: 64px;
       margin-bottom: 24px;
-      background-color: #E94444;
+      background-color: #F95555;
       border-radius: 50%;
       padding: 16px;
 }
@@ -208,4 +208,45 @@ nav {
       font-weight: 400;
       color: #627382;
       line-height: 24px;
+}
+
+#solution {
+      display: flex;
+      padding: 120px;
+}
+
+.solution-text {
+      padding: 120px 120px;
+      justify-content: center;
+}
+
+.solution-text h5 {
+      color: #30B868;
+      font-size: 16px;
+      font-weight: 500;
+      margin-bottom: 16px;
+}
+
+.solution-text h2 {
+      font-size: 48px;
+      font-weight: 700;
+      color: #001931;
+      line-height: 100%;
+      margin-bottom: 30px;
+}
+
+.solution-text p {
+      font-size: 16px;
+      font-weight: 400;
+      color: #627382;
+      line-height: 24px;
+      margin-bottom: 15px;
+}
+
+
+.solution-point {
+      display: flex;
+
+      color: #001931;
+      margin-bottom: 10px;
 }
