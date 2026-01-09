@@ -250,3 +250,47 @@ nav {
       color: #001931;
       margin-bottom: 10px;
 }
+
+#ready {
+      padding: 80px 40px 80px 40px;
+      border-radius: 12px;
+}
+
+.readyup {
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      background-color: #F7F6F2;
+      padding: 120px;
+}
+
+.readyup h2 {
+      font-size: 48px;
+      font-weight: 700;
+      color: #001931;
+      line-height: 100%;
+      margin-bottom: 30px;
+}
+
+.readyup p {
+      font-size: 16px;
+      font-weight: 400;
+      color: #627382;
+      line-height: 24px;
+      margin-bottom: 15px;
+}
+
+.readyup .btn {
+      margin-bottom: 24px;
+}
+
+.list {
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      color: #627382;
+}
+
+#readyupli {
+      list-style-type: none;
+}
