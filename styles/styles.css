@@ -1,0 +1,48 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+
+.inter_font {
+      font-family: "Inter", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: medium;
+      font-style: normal;
+}
+
+.logo {
+      width: 139px;
+      height: 60px;
+
+
+}
+
+.menu {
+      display: flex;
+      list-style-type: none;
+      gap: 51px;
+      align-items: center;
+
+}
+
+nav {
+
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+}
+
+
+
+.btn {
+      background-color: #30B868;
+      border: none;
+      padding: 18px 35px;
+      border-radius: 5px;
+      font-size: 20px;
+      font-weight: bold;
+      color: white;
+      cursor: pointer;
+}
